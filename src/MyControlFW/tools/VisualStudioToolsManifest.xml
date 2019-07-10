@@ -1,0 +1,7 @@
+﻿<FileList>
+  <File Reference = "MyControlFW.winmd">
+    <ToolboxItems VSCategory="MyControlFW" BlendCategory="MyControlFW">
+      <Item Type="MyControlFW.CustomButton" />
+    </ToolboxItems>
+  </File>
+</FileList>
